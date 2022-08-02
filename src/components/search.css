@@ -1,0 +1,31 @@
+.form{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 33px;
+}
+
+.input{
+  background: #FFFFFF;
+  box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.0532439);
+  border-radius: 5px;
+  padding: 18px 0 18px 54px;
+  border: none;
+  width: 480px;
+}
+
+.search__cover{
+  margin-bottom: 48px;
+}
+
+.select{
+  background: #FFFFFF;
+  box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.0532439);
+  border-radius: 5px;
+  padding: 18px 77px 18px 24px;
+  border: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #111517;
+}

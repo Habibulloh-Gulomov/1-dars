@@ -1,0 +1,40 @@
+.item{
+  list-style: none;
+  width: 264px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+  border-radius: 5px;
+  margin-bottom: 67px;
+
+}
+
+.info{
+  padding: 24px 24px 46px;
+}
+
+.german{
+  margin: 0 0 16px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 26px;
+  color: #111517;
+}
+
+.black{
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  color: #111517;
+}
+
+.detail{
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+img{
+  width:264px ;
+  height: 160px;
+}
