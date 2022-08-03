@@ -3,9 +3,7 @@ import { useState } from 'react'
 import Head from "./components/Header"
 import Search from "./components/Search"
 import Card from "./components/Countries"
-import "./app.css"
-
-
+import './app.css'
 
 import ListItem from './components/Countries'
 
